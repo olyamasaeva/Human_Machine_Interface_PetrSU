@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\bin\Debug\CodeforcesClass.dll
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\bin\Debug\CodeforcesClass.pdb
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\obj\Debug\CodeforcesClass.csprojAssemblyReference.cache
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\obj\Debug\CodeforcesClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\obj\Debug\CodeforcesClass.dll
+C:\Users\user\Desktop\hmi\hmi_proj\CodeforcesClass\obj\Debug\CodeforcesClass.pdb
