@@ -1,0 +1,18 @@
+﻿29.05.2019 11:42:53|I. Simple Robot|101102
+29.05.2019 11:42:53|J. Divisible Numbers|101102
+29.05.2019 20:45:45|D. Count The Bits|101982
+
+29.05.2019 20:45:45|E. Cops And Roobers|101982
+
+29.05.2019 20:45:45|F. Rectangles|101982
+
+29.05.2019 20:45:45|H. Repeating Goldbachs|101982
+
+29.05.2019 20:45:45|I. Inversions|101982
+
+29.05.2019 20:45:54|C. Contest Setting|101982
+
+29.05.2019 20:47:08|E. Two Arrays and Sum of Functions|1165
+
+29.05.2019 20:47:13|D. Almost All Divisors|1165
+

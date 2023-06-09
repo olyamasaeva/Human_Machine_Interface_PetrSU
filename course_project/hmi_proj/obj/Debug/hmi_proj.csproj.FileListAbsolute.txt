@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\bin\Debug\hmi_proj.exe.config
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\bin\Debug\hmi_proj.exe
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\bin\Debug\hmi_proj.pdb
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Form1.resources
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Properties.Resources.resources
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.exe
+C:\Users\user\Desktop\Человеко-машинные интерфейсы\hmi_proj\hmi_proj\obj\Debug\hmi_proj.pdb
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\hmi_proj.exe.config
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\hmi_proj.exe
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\hmi_proj.pdb
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csprojAssemblyReference.cache
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Properties.Resources.resources
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csproj.GenerateResource.cache
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.exe
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.pdb
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Trains.resources
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.csproj.CopyComplete
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\cfapi.dll
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\cfapi.pdb
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Practice.resources
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.Statistic.resources
+C:\Users\user\Desktop\hmi\hmi_proj\hmi_proj\obj\Debug\hmi_proj.OneContestInfo.resources
